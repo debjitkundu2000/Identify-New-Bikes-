@@ -15,8 +15,7 @@
     <classes>
       <class name="TestCases.TC003_UpcomingBikePage">
         <methods>
-          <include name="test1"/>
-          <include name="test2"/>
+          <include name="Test9"/>
           <include name="setup"/>
           <include name="teardown"/>
         </methods>
